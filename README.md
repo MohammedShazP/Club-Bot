@@ -1,1 +1,1 @@
-This is small streamlit app developed for users to search about the football clubs in the world. The Large Language Model used to run thid app is Llama3-8B. Don't forget to add your huggingface token to run this code.
+This is small streamlit app developed for users to search about the football clubs in the world. The Large Language Model used to run this app is Llama3-8B. Don't forget to add your huggingface token to run this code.
